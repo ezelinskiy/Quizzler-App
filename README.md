@@ -1,24 +1,18 @@
-#  Quizzler
+#  Quizzler Swift App
 
-## Our Goal
+## What was do in this app
 
-The goal of this tutorial is to take you one step further in your journey of becoming an app developer. We are going to introduce you to the holy grail of mobile design patterns: the Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimised solution to a common software problem and you’ll learn more about this when use in the tutorial.
+The simple a trivia quiz app with array of questions. In this app was used the Model View Controller (MVC) pattern. You have a questions that can be ansewered only "True" of "False". For question use object model (struct), so you can easy add ass many questions, as you want. In top of screen score value, which show correct answers count. In bottom used progress view, which how current progress of quiz. When choosing an answer to a question, while pressing the answer buttons, the button lights up green if the answer is correct and red if not. 
 
-## What you will create
+## What was used to make this app
 
-You will program a trivia quiz app. If you have another field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store! 
+* MVC pattern
+* Autolayout for UI elements
+* Control flow statements
+* Structures and Classes
+* UI elements such as UILabel, UIImageView, UIProgressView, UIStackView
 
-## What you will learn
-
-* How to programmatically change UI elements such as Labels and Buttons.
-* What is a design pattern and how is it used in programming.
-* How to use the Model-View-Controller or MVC pattern for app development.
-* Learn about Swift Structures how to instantiate a struct instance.
-* Understand the difference between value types and reference types. 
-* Learn about Swift Classes and creating Objects.
-* Compare Swift Classes with Swift Structs and know when to use which.
-* Learn about Object Oriented Programming.
-* How to refactor code and stay organised.
-
+> [!TIP]
+## Example what the application do
 
 ![Quizzler app example of work.](Documentation/quizzler_screenrecord.gif)
