@@ -12,9 +12,6 @@ The simple a trivia quiz app with array of questions. In this app was used the M
 * Structures and Classes
 * UI elements such as UILabel, UIImageView, UIProgressView, UIStackView
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
 ## Example what the application do
 
 ![Quizzler app example of work.](Documentation/quizzler_screenrecord.gif)
