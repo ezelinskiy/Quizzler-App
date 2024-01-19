@@ -1,6 +1,6 @@
 #  Quizzler
 
-(Documentation/quizzler_screenrecord.gif)
+![Quizzler video.](Documentation/quizzler_screenrecord.gif)
 
 ## Our Goal
 
