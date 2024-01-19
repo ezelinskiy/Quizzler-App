@@ -1,6 +1,6 @@
 #  Quizzler
 
-![App Brewery Banner](Documentation/quizzler_screenrecord.gif)
+(Documentation/quizzler_screenrecord.gif)
 
 ## Our Goal
 
