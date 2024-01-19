@@ -6,6 +6,8 @@ The simple a trivia quiz app with array of questions. In this app was used the M
 
 ## What was used to make this app
 
+* The Swift Programming Language
+* Storyboard
 * MVC pattern
 * Autolayout for UI elements
 * Control flow statements
