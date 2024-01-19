@@ -1,7 +1,5 @@
 #  Quizzler
 
-![Quizzler app example of work.](Documentation/quizzler_screenrecord.gif)
-
 ## Our Goal
 
 The goal of this tutorial is to take you one step further in your journey of becoming an app developer. We are going to introduce you to the holy grail of mobile design patterns: the Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimised solution to a common software problem and you’ll learn more about this when use in the tutorial.
@@ -21,3 +19,6 @@ You will program a trivia quiz app. If you have another field of expertise such 
 * Compare Swift Classes with Swift Structs and know when to use which.
 * Learn about Object Oriented Programming.
 * How to refactor code and stay organised.
+
+
+![Quizzler app example of work.](Documentation/quizzler_screenrecord.gif)
